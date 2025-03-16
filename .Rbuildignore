@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.github$
+^kai.analysis\.Rcheck$
+^kai.analysis.*\.tar\.gz$
+^kai.analysis.*\.tgz$

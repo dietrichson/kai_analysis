@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+kai.analysis.Rcheck/
+kai.analysis*.tar.gz
+kai.analysis*.tgz
