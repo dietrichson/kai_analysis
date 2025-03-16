@@ -1,0 +1,12 @@
+{
+    "name": "R WebAssembly Development",
+    "image": "ghcr.io/r-wasm/webr:main",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ikuyadeu.r"
+    ],
+    "forwardPorts": [8000],
+    "postCreateCommand": "R --version"
+}
