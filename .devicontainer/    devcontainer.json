@@ -1,14 +1,10 @@
 {
     "name": "My Dev Container",
-    "build": {
-        "dockerfile": "Dockerfile",
-        "context": ".."
-    },
+    "image": "ghcr.io/r-wasm/webr:main",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
     "extensions": [
         "ikuyadeu.r"
-    ],
-    "postCreateCommand": "apt-get update && apt-get install -y r-base"
+    ]
 }
