@@ -1,0 +1,17 @@
+Package: cli
+Version: 3.6.4
+Depends: R (>= 3.4)
+Imports: utils
+Suggests: callr, covr, crayon, digest, glue (>= 1.6.0), grDevices,
+        htmltools, htmlwidgets, knitr, methods, processx, ps (>=
+        1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot,
+        rstudioapi, testthat (>= 3.2.0), tibble, whoami, withr
+License: MIT + file LICENSE
+MD5sum: d5b2926a5749f85deedaa9673d70d9d9
+NeedsCompilation: yes
+
+Package: kaianalysis
+Version: 1.0.1
+License: MIT
+MD5sum: 432d4c2df8aefa76e70cbdcc97934786
+NeedsCompilation: no
