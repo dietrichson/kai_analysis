@@ -1,0 +1,12 @@
+Package: kaianalysis
+Type: Package
+Title: Kai Analysis Package
+Version: 1.0.1
+Author: Your Name
+Maintainer: Your Name <dietichson@chi2labs.com>
+Description: Simple test package for WASM compilation.
+License: MIT
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2025-03-16 20:54:17 UTC; r227303
+Built: R 4.4.2; ; 2025-03-16 21:40:18 UTC; unix

@@ -5,3 +5,6 @@
 kai.analysis.Rcheck/
 kai.analysis*.tar.gz
 kai.analysis*.tgz
+.qodo
+.DS_Store
+.Rproj.user/*
